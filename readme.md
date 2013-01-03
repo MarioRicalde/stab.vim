@@ -4,7 +4,7 @@ Want to set Hard Tabs? STAB IT HARD.
 
     :StabHard 4
 
-Want to set Hard Tabs? STAB IT SOFT.
+Want to set Soft Tabs? STAB IT SOFT.
 
     :StabSoft 4
 
