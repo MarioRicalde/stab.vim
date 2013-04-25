@@ -15,3 +15,5 @@ Want to set obvious vimrc filetype options? STAB IT.
 ### Credits
 
 This script was based off [nelstrom](https://github.com/nelstrom)'s script.
+
+Follow me at [Twitter](http://twitter.com/mario_ricalde) or at [mario.ricalde.mx](http://mario.ricalde.mx).
